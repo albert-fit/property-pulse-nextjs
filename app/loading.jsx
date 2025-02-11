@@ -1,5 +1,5 @@
 'useClient'
-import ClipLoader from "react-spinners";
+import {ClipLoader} from "react-spinners";
 
 const LoadingPage = () => {
     const override = {
